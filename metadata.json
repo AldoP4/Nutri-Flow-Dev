@@ -1,0 +1,5 @@
+{
+  "name": "NutriFlow ITIL-eStore",
+  "description": "A simulation of an e-commerce platform demonstrating ITIL 4 practices including Service Desk, Incident Management, and Deployment Control.",
+  "requestFramePermissions": []
+}
